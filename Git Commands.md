@@ -1,4 +1,4 @@
-#Basic Commands
+# Basic Commands
 
 - git init // Initialize Local Git Repository
 - git add <file> // Add File(s) To Index

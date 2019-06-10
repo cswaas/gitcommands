@@ -21,3 +21,4 @@
 - git commit -m 'My commit coment'
 
 - git branch login // Create a branch named 'login'
+- git checkout login //Switch to login branch

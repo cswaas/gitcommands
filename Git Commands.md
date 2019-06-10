@@ -19,3 +19,5 @@
 - git add .
 - git commit //VIM editor opens to write commit comment
 - git commit -m 'My commit coment'
+
+- git branch login // Create a branch named 'login'

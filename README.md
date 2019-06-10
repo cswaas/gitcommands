@@ -1,4 +1,4 @@
-#My Git Commands Tutorial
+# My Git Commands Tutorial
 
 - See this file for my commands:
-https://github.com/cswaas/gitcommands/blob/master/Git%20Commands.md
+  https://github.com/cswaas/gitcommands/blob/master/Git%20Commands.md

@@ -8,7 +8,7 @@
 - git pull // Pull Latest From Remote Repository
 - git clone // Clone Repository Into A New Directory
 
-#Further Commands
+# Further Commands
 
 - git --version
 - git config --global user.name 'Christian Waas'

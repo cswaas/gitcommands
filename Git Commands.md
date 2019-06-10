@@ -24,3 +24,6 @@
 - git checkout login //Switch to login branch
 - git checkout master //Switch to master branch
 - git merge login // Merge login into master branch
+- git remote add origin https://github.com/cswaas/gitcommands.git
+- git remote // Display remote repository
+- git push -u origin master // Push master to origin repository

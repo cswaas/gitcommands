@@ -28,3 +28,4 @@
 - git remote // Display remote repository
 - git push -u origin master // Push master to origin repository
 - git push // Push further changes to remote repository
+- git pull // Pull all changes from remote repository

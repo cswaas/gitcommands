@@ -22,3 +22,5 @@
 
 - git branch login // Create a branch named 'login'
 - git checkout login //Switch to login branch
+- git checkout master //Switch to master branch
+- git merge login // Merge login into master branch

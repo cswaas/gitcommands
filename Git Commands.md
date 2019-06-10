@@ -17,3 +17,5 @@
 - git rm --cached <file> // Remove File From Index (Staging Area)
 - git add \*.html
 - git add .
+- git commit //VIM editor opens to write commit comment
+- git commit -m 'My commit coment'

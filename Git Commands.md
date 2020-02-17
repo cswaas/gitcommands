@@ -22,6 +22,7 @@
 
 - git branch login // Create a branch named 'login'
 - git checkout login //Switch to login branch
+- git push --set-upstream origin login // To push the current branch and set the remote as upstream
 - git checkout master //Switch to master branch
 - git merge login // Merge login into master branch
 - git remote add origin https://github.com/cswaas/gitcommands.git
